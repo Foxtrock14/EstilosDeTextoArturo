@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio4</string>
+    <string name="hint_titulo">Ingresa una cadena</string>
+    <string name="autor">Jose Arturo</string>
+    <string name="chk_Negrita">"Negrita "</string>
+    <string name="chk_Cursiva">Cursiva</string>
+</resources>
